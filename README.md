@@ -20,5 +20,7 @@ Start a local webserver by running:
 python app.py
 ```
 
+A demo of this app is running here: http://www.aliasfarsidictionary.com/
+
 ## License
 This code is dedicated to the public domain to the maximum extent permitted by applicable law, pursuant to CC0 (http://creativecommons.org/publicdomain/zero/1.0/)
